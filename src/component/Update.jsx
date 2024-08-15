@@ -28,7 +28,7 @@ const Update = ({
         <div className="w-1/3 bg-white shadow-md rounded-md p-5">
           <div>
             <h1 className="font-mono text-3xl text-black text-center mb-4">
-              Update Your Notes
+              Update Your Note
             </h1>
 
             <input
